@@ -1,3 +1,6 @@
+body{
+    color: aliceblue !important;
+}
 nav{
     position: absolute !important;
     z-index: 1;
@@ -57,4 +60,15 @@ h2{text-align: center;}
 .btn-primary{
     background-color: aqua !important;
 }
+.footer{
+    background-color:aqua !important;
+    display: flex;
+    text-align: center;
+    
+    
+}
 
+.fa-brands{
+    padding-top: 10px;
+    font-size: 25px;
+}
