@@ -50,6 +50,11 @@ i{
 .contacto{
     padding: 30px;
     background-color: black;
-    text-align: center;
+    
 
 }
+h2{text-align: center;}
+.btn-primary{
+    background-color: aqua !important;
+}
+
